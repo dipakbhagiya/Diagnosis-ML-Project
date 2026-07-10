@@ -12,7 +12,7 @@ def main():
 
     # Step 1: Load & preprocess data
     X_train, X_test, y_train, y_test, feature_names = load_and_preprocess(
-        filepath="/home/ankit-dubariya/Downloads/student-score-predictor/diabetes.csv"
+        filepath="/home/ankit-dubariya/Downloads/Projects/ZeroError Diagnosis ML Project/diabetes.csv"
     )
 
     # Step 2: Build model
